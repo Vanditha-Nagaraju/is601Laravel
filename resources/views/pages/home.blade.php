@@ -3,7 +3,7 @@
 <br>
 <br>
 <br>
-<h1>NJIT Innovation center</h1>
+<h1>Welcome to the home page</h1>
 
 
 @stop
