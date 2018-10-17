@@ -7,6 +7,8 @@
     <div class="row text-left">
         <div class="col-md-8">
 
+            <h3><span class="glyphicon glyphicon-info-sign"></span> Here are the three latest projects of the Innovation center</h3>
+
 
             <p>
             <hr><h4>Blackdoves</h4> Blackdoves works on a manufacturing unit where its going to be contributing 40% of its income to the schools of underprivileged  and contribute to the schools development.</p>
